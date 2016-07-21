@@ -1,0 +1,25 @@
+﻿<xapCache source="D:\TEST\sample\izsu\izsu\Bin\Debug\izsu_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="21.07.2016 12:40:54">
+  <file source="D:\TEST\sample\izsu\izsu\Bin\Debug\resources.pri" archivePath="resources.pri" lastWriteTime="21.07.2016 12:34:08" />
+  <file source="D:\TEST\sample\izsu\izsu\obj\Debug\izsu.dll" archivePath="izsu.dll" lastWriteTime="21.07.2016 12:40:53" />
+  <file source="D:\TEST\sample\izsu\izsu\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="22.05.2015 12:09:58" />
+  <file source="D:\TEST\sample\izsu\izsu\Assets\BadgeLogo.png" archivePath="Assets\BadgeLogo.png" lastWriteTime="22.05.2015 12:09:58" />
+  <file source="D:\TEST\sample\izsu\izsu\Assets\Logo.png" archivePath="Assets\Logo.png" lastWriteTime="22.05.2015 12:09:58" />
+  <file source="D:\TEST\sample\izsu\izsu\Assets\SplashScreen.png" archivePath="Assets\SplashScreen.png" lastWriteTime="22.05.2015 12:09:58" />
+  <file source="D:\TEST\sample\izsu\izsu\Assets\SquareTile150x150.png" archivePath="Assets\SquareTile150x150.png" lastWriteTime="22.05.2015 12:09:58" />
+  <file source="D:\TEST\sample\izsu\izsu\Assets\SquareTile71x71.png" archivePath="Assets\SquareTile71x71.png" lastWriteTime="22.05.2015 12:09:58" />
+  <file source="D:\TEST\sample\izsu\izsu\Assets\StoreLogo.png" archivePath="Assets\StoreLogo.png" lastWriteTime="22.05.2015 12:09:58" />
+  <file source="D:\TEST\sample\izsu\izsu\Assets\WideLogo.png" archivePath="Assets\WideLogo.png" lastWriteTime="22.05.2015 12:09:58" />
+  <file source="D:\TEST\sample\izsu\izsu\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="22.05.2015 12:09:58" />
+  <file source="D:\TEST\sample\izsu\izsu\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="22.05.2015 12:09:58" />
+  <file source="D:\TEST\sample\izsu\izsu\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="22.05.2015 12:09:58" />
+  <file source="D:\TEST\sample\izsu\izsu\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="22.05.2015 12:09:58" />
+  <file source="D:\TEST\sample\izsu\izsu\Foto\izmir.jpg" archivePath="Foto\izmir.jpg" lastWriteTime="22.05.2015 12:15:16" />
+  <file source="D:\TEST\sample\izsu\izsu\Foto\izsulogoyeni.png" archivePath="Foto\izsulogoyeni.png" lastWriteTime="22.05.2015 12:15:16" />
+  <file source="D:\TEST\sample\izsu\izsu\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="21.07.2016 12:33:36" />
+  <file source="D:\TEST\sample\izsu\izsu\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="22.05.2015 12:09:58" />
+  <file source="D:\TEST\sample\izsu\izsu\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="22.05.2015 12:09:58" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.1\Libraries\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="6.02.2015 02:37:50" />
+  <file source="D:\TEST\sample\izsu\izsu\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="21.07.2016 12:33:36" />
+  <file source="D:\TEST\sample\izsu\izsu\obj\Debug\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="21.07.2016 12:40:54" />
+  <file source="D:\TEST\sample\izsu\izsu\Bin\Debug\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="21.07.2016 12:34:08" />
+</xapCache>
